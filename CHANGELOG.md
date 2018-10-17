@@ -1,3 +1,15 @@
+03 May 2018 - 1.0.20 -> 1.0.21
+
+* [Bug fix: Fix Ruby version compares in Gemspec](https://github.com/mattheworiordan/capybara-screenshot/pull/231)
+
+03 May 2018 - 1.0.19 -> 1.0.20
+
+* [Bug fix: Only take screenshots for feature tests](https://github.com/mattheworiordan/capybara-screenshot/pull/223)
+
+10 April 2018 - 1.0.18 -> 1.0.19
+
+* Big thanks for [Geremia Taglialatela](https://github.com/tagliala) for [padding Capybara 3 support and fixing the builds](https://github.com/mattheworiordan/capybara-screenshot/pull/230)
+
 2 November 2017 - 1.0.17 -> 1.0.18
 
 * [RSpec 3.3 support](https://github.com/mattheworiordan/capybara-screenshot/pull/213)
